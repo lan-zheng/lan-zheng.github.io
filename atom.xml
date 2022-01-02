@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lan-zheng.github.io/</id>
     <title>理性梦想家</title>
-    <updated>2022-01-02T10:42:25.375Z</updated>
+    <updated>2022-01-02T11:11:16.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lan-zheng.github.io/"/>
     <link rel="self" href="https://lan-zheng.github.io/atom.xml"/>
@@ -16,10 +16,15 @@
         <link href="https://lan-zheng.github.io/post/music/">
         </link>
         <updated>2022-01-02T10:26:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>都 是勇敢的<br>
+你额头的伤口 你的 不同 你犯的错<br>
+都 不必隐藏</p>
+]]></summary>
         <content type="html"><![CDATA[<p>都 是勇敢的<br>
 你额头的伤口 你的 不同 你犯的错<br>
-都 不必隐藏<br>
-你破旧的玩偶 你的 面具 你的自我<br>
+都 不必隐藏</p>
+<!-- more -->
+<p>你破旧的玩偶 你的 面具 你的自我<br>
 他们说 要带着光 驯服每一头怪兽<br>
 他们说 要缝好你的伤 没有人爱小丑<br>
 为何孤独 不可 光荣<br>
