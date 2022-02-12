@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lan-zheng.github.io/</id>
     <title>理性梦想家</title>
-    <updated>2022-02-12T09:08:47.570Z</updated>
+    <updated>2022-02-12T09:13:20.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lan-zheng.github.io/"/>
     <link rel="self" href="https://lan-zheng.github.io/atom.xml"/>
@@ -17,6 +17,10 @@
         <link href="https://lan-zheng.github.io/zhi-yu-or-guan-yu-xiang-qian-guan-yu-bao-yuan-guan-yu-jiao-lu/">
         </link>
         <updated>2022-02-12T09:04:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>米兰·昆德拉写道：我心中已经听到来自远方的呼唤，再不需要回过头关怀身后的种种是非与议论。我已无暇顾及过往，我要向前走。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>米兰·昆德拉写道：我心中已经听到来自远方的呼唤，再不需要回过头关怀身后的种种是非与议论。我已无暇顾及过往，我要向前走。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[陈奕迅&唐恬《孤勇者》却敢堵命运的枪]]></title>
