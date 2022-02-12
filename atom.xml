@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lan-zheng.github.io/</id>
     <title>理性梦想家</title>
-    <updated>2022-01-03T15:16:36.300Z</updated>
+    <updated>2022-02-12T09:08:47.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lan-zheng.github.io/"/>
     <link rel="self" href="https://lan-zheng.github.io/atom.xml"/>
@@ -11,6 +11,13 @@
     <logo>https://lan-zheng.github.io/images/avatar.png</logo>
     <icon>https://lan-zheng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 理性梦想家</rights>
+    <entry>
+        <title type="html"><![CDATA[治愈 | 关于向前、关于抱怨、关于焦虑]]></title>
+        <id>https://lan-zheng.github.io/zhi-yu-or-guan-yu-xiang-qian-guan-yu-bao-yuan-guan-yu-jiao-lu/</id>
+        <link href="https://lan-zheng.github.io/zhi-yu-or-guan-yu-xiang-qian-guan-yu-bao-yuan-guan-yu-jiao-lu/">
+        </link>
+        <updated>2022-02-12T09:04:06.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陈奕迅&唐恬《孤勇者》却敢堵命运的枪]]></title>
         <id>https://lan-zheng.github.io/music/</id>
