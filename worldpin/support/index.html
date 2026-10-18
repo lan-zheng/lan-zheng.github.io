@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#ffe44f">
+  <meta name="description" content="Contact the WorldPin support team for app questions, feedback, and purchase help.">
+  <link rel="canonical" href="https://lan-zheng.github.io/worldpin/support/">
+  <meta property="og:title" content="WorldPin Support"><meta property="og:description" content="Questions about your travel journal? The WorldPin team is here to help."><meta property="og:url" content="https://lan-zheng.github.io/worldpin/support/"><meta property="og:type" content="website">
+  <title>Support · WorldPin</title><link rel="icon" href="../brand-mark.svg" type="image/svg+xml"><link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="../" aria-label="WorldPin home"><img src="../brand-mark.svg" alt=""><span>WORLD<span class="brand-accent">PIN</span></span></a><span class="topnote">SUPPORT / WORLD PIN</span></header>
+  <main class="document">
+    <a class="crumb" href="../">← WORLD PIN / HELP</a>
+    <div class="doc-head"><div class="eyebrow"><span class="pin-dot"></span> HERE FOR THE NEXT STEP</div><h1>Need a hand<br><em>on the way?</em></h1><p>Tell us what happened. We’ll help you get your travel journal back on track.</p></div>
+    <nav class="lang-nav" aria-label="Language"><button type="button" data-lang="en" aria-pressed="true">English</button><button type="button" data-lang="zh" aria-pressed="false">简体中文</button></nav>
+    <article class="legal-copy" data-copy="en">
+      <div class="support-panel"><h2>Write to WorldPin support</h2><p>Email us and include a short description of what you need.</p><a class="email-link" href="mailto:support@logihope.com?subject=WorldPin%20Support">support@logihope.com&nbsp; ↗</a></div>
+      <h2>Help us understand the issue</h2><p>If it helps, include:</p><ul><li>Your device model and iOS version</li><li>Your WorldPin app version</li><li>What you expected and what happened</li><li>A screenshot with private details hidden, if useful</li></ul>
+      <div class="notice">Please don’t email passwords, payment card details, or sensitive personal information. WorldPin support will never ask you to send your Apple password.</div>
+      <h2>Restore a Passport purchase</h2><p>Open the Passport screen in WorldPin and choose <strong>Restore purchases</strong> while signed in to the Apple Account used for the purchase. If it still does not appear, email us with the purchase date and your app version. Do not send payment card information.</p>
+      <h2>Manage your travel records</h2><p>You can edit or delete a trip from its travel history. Removing a single visit does not remove another visit to that same place. Exported travel books and cards are files you control on your device.</p>
+    </article>
+    <article class="legal-copy" data-copy="zh" hidden>
+      <div class="support-panel"><h2>联系 WorldPin 支持</h2><p>请发送邮件，并简要说明你需要的帮助。</p><a class="email-link" href="mailto:support@logihope.com?subject=WorldPin%20Support">support@logihope.com&nbsp; ↗</a></div>
+      <h2>方便我们了解问题</h2><p>如有帮助，可以在邮件中写上：</p><ul><li>设备型号与 iOS 版本</li><li>WorldPin App 版本</li><li>你原本希望发生什么，以及实际情况</li><li>必要时附上已遮挡私人信息的截图</li></ul>
+      <div class="notice">请勿通过邮件发送密码、支付卡信息或敏感个人资料。WorldPin 支持团队不会索取你的 Apple 账户密码。</div>
+      <h2>恢复 Passport 购买</h2><p>请在 WorldPin 的 Passport 页面点击“恢复购买”，并确认设备已登录购买时使用的 Apple 账户。如果仍未显示，请邮件告知购买日期和 App 版本。请勿发送银行卡信息。</p>
+      <h2>管理旅行记录</h2><p>你可以在旅行记录中编辑或删除单次旅程。删除某一次到访不会删除同一地点的其他到访记录。导出的旅行册和卡片是由你在设备上管理的文件。</p>
+    </article>
+    <div class="doc-footer"><a href="../privacy/">Privacy / 隐私政策</a><span>© 2026 WorldPin · Logihope</span><a href="mailto:support@logihope.com">support@logihope.com</a></div>
+  </main>
+  <script>
+    const buttons=[...document.querySelectorAll('[data-lang]')], copies=[...document.querySelectorAll('[data-copy]')];
+    function setLanguage(lang){document.documentElement.lang=lang==='zh'?'zh-Hans':'en';buttons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.lang===lang)));copies.forEach(c=>c.hidden=c.dataset.copy!==lang);}
+    buttons.forEach(b=>b.addEventListener('click',()=>setLanguage(b.dataset.lang)));
+    if(navigator.language.toLowerCase().startsWith('zh'))setLanguage('zh');
+  </script>
+</body>
+</html>
